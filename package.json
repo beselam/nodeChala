@@ -1,0 +1,28 @@
+{
+  "name": "nodechala",
+  "version": "1.0.0",
+  "description": "node project for chala",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beselam/nodeChala.git"
+  },
+  "keywords": [
+    "express",
+    "npm",
+    "node"
+  ],
+  "author": "beselam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beselam/nodeChala/issues"
+  },
+  "homepage": "https://github.com/beselam/nodeChala#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
